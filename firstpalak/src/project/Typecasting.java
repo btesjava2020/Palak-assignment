@@ -1,0 +1,12 @@
+package project;
+
+public class Typecasting {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int a = 99;
+double b = (char) a;
+System.out.println(a);
+	}
+
+}
